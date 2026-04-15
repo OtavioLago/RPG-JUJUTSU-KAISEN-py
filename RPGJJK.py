@@ -279,4 +279,4 @@ elif V_monstro <= 0 :
     elif "desmantelar" in habilidades :
         print ("voce venceu, se tornando o feiticeiro mais forte de toda a historia mundial")
     else :
-        print ("voce venceu contra todas as possibilidades do codigo, azarado do krl")
+        print ("voce venceu sendo um ser humano comum!, parabens!")
